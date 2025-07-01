@@ -43,6 +43,6 @@ function multiply(a, b) {
 
 ### English Skills:
 
-Level: B1 (Intermediate), currently continuing studies.<br>
+**Level**: B1 (Intermediate), currently continuing studies.<br>
 Experienced in reading technical documentation and watching educational videos in English.<br>
 Lived abroad for a few years (Sweden and Poland), which helped improve communication skills and language immersion.<br>
