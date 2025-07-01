@@ -39,7 +39,7 @@ function multiply(a, b) {
 - SayOkey. Intensive English Course (Pre-Intermediate Level)  
 - SayOkey. Intensive English Course (Intermediate Level)  
 - Rolling Scopes JS / Front-end Pre-school Course  
-- BelHard Software Testing Engineer. Basic Level  
+- BelHard Software Testing Engineer 
 
 ### English Skills:
 
